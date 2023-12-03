@@ -17,6 +17,7 @@ and learning. Notable projects include:
 - **Description**: A Scala-based project to create a graph structure from
   markdown notes.
 - **Status**: Completed
+
 - [Read More](./notesgraph/README.md)
 
 ### Rust Custom Shell
@@ -24,6 +25,14 @@ and learning. Notable projects include:
 - **Description**: A basic shell implemented in Rust to explore system-level programming.
 - **Status**: Work in progress
 - [Read More](./custom-shell/README.md)
+
+### Autocomplete Experiment
+
+- **Description**: An exploration into building an efficient autocomplete
+  querying system in Python. This project initially utilized a Trie data
+  structure and evolved to implement a Prefix Hash Tree for enhanced performance.
+- **Status**: Completed
+- [Read More](./autocomplete/README.md)
 
 ## Getting Started
 
