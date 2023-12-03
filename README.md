@@ -12,19 +12,28 @@ This repository contains various small projects. Each project focuses on
 different aspects of programming and serves as a platform for experimentation
 and learning. Notable projects include:
 
-### Scala Notes Graph Project
-
-- **Description**: A Scala-based project to create a graph structure from
-  markdown notes.
-- **Status**: Completed
-
-- [Read More](./notesgraph/README.md)
-
 ### Rust Custom Shell
 
 - **Description**: A basic shell implemented in Rust to explore system-level programming.
 - **Status**: Work in progress
 - [Read More](./custom-shell/README.md)
+
+### Scala Notes Graph Project
+
+- **Description**: This Scala-based project focuses on creating a graph structure
+  from markdown notes. It parses markdown files to extract internal and external
+  links, and then constructs a graph where nodes represent individual notes and
+  edges depict the links between them.
+- **Status**: Completed
+- [Read More](./notesgraph/README.md)
+
+### ID Generators
+
+- **Description**: A set of classes designed for generating unique IDs, inspired
+  by Twitter's Snowflake and Flickr's Ticket algorithms. This project was
+  undertaken to explore non-UUID, time-sortable, unique identifiers.
+- **Status**: Completed
+- [Read More](./id-generators/README.md)
 
 ### Autocomplete Experiment
 
