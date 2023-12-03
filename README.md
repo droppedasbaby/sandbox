@@ -1,8 +1,8 @@
-# Sandbox Repository
+# Sandbox Repo
 
 ## Overview
 
-Welcome to my Sandbox Repository! This is a collection of experimental projects
+Welcome to my sandbox repo! This is a collection of experimental projects
 and learning exercises in different programming languages and technologies. The
 aim of this repository is to explore new concepts, test ideas, and etc.
 
@@ -10,7 +10,7 @@ aim of this repository is to explore new concepts, test ideas, and etc.
 
 This repository contains various small projects. Each project focuses on
 different aspects of programming and serves as a platform for experimentation
-and learning. Notable projects include:
+and learning. Projects include:
 
 ### Rust Custom Shell
 
