@@ -12,12 +12,6 @@ This repository contains various small projects. Each project focuses on
 different aspects of programming and serves as a platform for experimentation
 and learning. Projects include:
 
-### Rust Custom Shell
-
-- **Description**: A basic shell implemented in Rust to explore system-level programming.
-- **Status**: Work in progress
-- [Read More](./custom-shell/README.md)
-
 ### Scala Notes Graph Project
 
 - **Description**: This Scala-based project focuses on creating a graph structure
