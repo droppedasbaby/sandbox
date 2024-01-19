@@ -37,6 +37,15 @@ and learning. Projects include:
 - **Status**: Completed
 - [Read More](./autocomplete/README.md)
 
+### Get Wiki Data
+
+- **Description**: These utility functions, written in Go, are designed for
+  downloading and processing Wikipedia's data dumps. It focuses on parsing
+  Wikipedia dump status files and downloading the relevant data. The project
+  includes handling and downloading of page view data as well.
+- **Status**: Completed
+- [Read More](./get-wiki-data/README.md)
+
 ## Getting Started
 
 To explore a project:
